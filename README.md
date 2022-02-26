@@ -3,4 +3,4 @@
 <br />Later in life, I'm interested to become a Pilot.👽<br />Plus I am a Student🧑‍🎓.</b> </h3>
 <h1 align="center"> ---------------------------------------------------------------------------</b> </h1>
 
-![Pakpak] <img src="https://github-readme-stats.vercel.app/api?username=pakpak3&theme=react&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pakpak3&theme=react&show_icons=true"/>
